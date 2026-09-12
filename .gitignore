@@ -1,1 +1,6 @@
-placeholder
+node_modules/
+*.log
+.env
+dist/
+.wrangler/
+.DS_Store

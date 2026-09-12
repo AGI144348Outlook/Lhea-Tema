@@ -1,1 +1,16 @@
-placeholder
+{
+  "name": "lhea-tema",
+  "version": "0.1.0",
+  "description": "LHEA-TEMA Kernel Worker v2 + Workers AI — a Cloudflare Worker that fuses a Latin root / Hebrew glyph / Indus icon semantic registry with a layered (Core/Ocean/Cave) context-memory model and a Workers AI chat endpoint.",
+  "type": "module",
+  "main": "src/lhea-tema-kernel.js",
+  "exports": "./src/lhea-tema-kernel.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Timothy (AGI144348Outlook)",
+  "engines": {
+    "node": ">=18"
+  }
+}
