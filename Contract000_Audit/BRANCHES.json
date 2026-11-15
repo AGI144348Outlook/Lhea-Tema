@@ -1,0 +1,27 @@
+{
+  "schema": "contract000.branch-map.v1",
+  "repository": "AGI144348Outlook/Lhea-Tema",
+  "source_snapshot_date": "2026-11-15",
+  "maintenance_branch": "main",
+  "excluded_root": "Contract000_Audit",
+  "branches": [
+    {
+      "id": 0,
+      "name": "claude/github-claude-code-connection-98qkbx",
+      "folder": "claude%2Fgithub-claude-code-connection-98qkbx",
+      "source_commit": "523b24c7eec1e0347d2646411791aab60bd7f786",
+      "source_tree": "523b24c7eec1e0347d2646411791aab60bd7f786",
+      "entry": "claude%2Fgithub-claude-code-connection-98qkbx/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 1
+    },
+    {
+      "id": 1,
+      "name": "main",
+      "folder": "main",
+      "source_commit": "22ae6f5d307bffe56c4fcb6f9707d76c644655ff",
+      "source_tree": "22ae6f5d307bffe56c4fcb6f9707d76c644655ff",
+      "entry": "main/protocols/Contract_ReadMe/Contract000_readme.md",
+      "next_branch_id": 0
+    }
+  ]
+}
