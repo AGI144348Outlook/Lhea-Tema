@@ -4,8 +4,12 @@
   "branch_index": 0,
   "category_index": 0,
   "next_directory": "claude%2Fgithub-claude-code-connection-98qkbx/protocols/Contract_ReadMe/Contract000_readme.md",
-  "directory_status": "GENERATED_FROM_PINNED_GITHUB_TREES",
-  "content_status": "NOT_AUDITED",
-  "last_run_id": null,
-  "updated": "2026-11-15"
+  "next_file": "LICENSE",
+  "directory_status": "VERIFIED_PINNED_AND_CURRENT_TREES",
+  "content_status": "PARTIAL",
+  "last_completed_file": ".gitignore",
+  "source_commit": "523b24c7eec1e0347d2646411791aab60bd7f786",
+  "source_blob": "56ad87c255df23ead07be08a1a16de454c114f7d",
+  "last_run_id": "hourly-slot-2026-11-16T04:00:00-06:00 (scheduler UUID unavailable)",
+  "updated": "2026-11-16"
 }
