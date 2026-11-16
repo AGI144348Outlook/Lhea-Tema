@@ -1,15 +1,27 @@
 {
   "schema": "contract000.audit-checkpoint.v1",
   "repository": "AGI144348Outlook/Lhea-Tema",
-  "represented_branch": "RESOLVE_FROM_PARENT_BRANCH_FOLDER",
+  "represented_branch": "claude/github-claude-code-connection-98qkbx",
+  "source_commit": "523b24c7eec1e0347d2646411791aab60bd7f786",
   "category": "protocols",
-  "phase": "VERIFY_DIRECTORY",
-  "directory_status": "GENERATED_FROM_PINNED_GITHUB_TREES",
-  "content_status": "NOT_AUDITED",
-  "last_completed_file": null,
-  "within_file_position": null,
+  "phase": "READ_SOURCE_FILES",
+  "directory_status": "VERIFIED_PINNED_AND_CURRENT_TREES",
+  "content_status": "PARTIAL",
+  "last_completed_file": ".gitignore",
+  "last_completed_blob": "56ad87c255df23ead07be08a1a16de454c114f7d",
+  "within_file_position": "EOF (6 lines)",
+  "file_coverage": {
+    ".gitignore": "READ_NO_FINDINGS",
+    "LICENSE": "UNREAD",
+    "README.md": "UNREAD",
+    "package.json": "UNREAD",
+    "src/lhea-tema-kernel.js": "UNREAD",
+    "test/kernel.test.js": "UNREAD"
+  },
   "findings": [],
   "blockers": [],
+  "next_file": "LICENSE",
   "next_directory": "../../skills/Contract_ReadMe/Contract000_readme.md",
-  "updated": "2026-11-15"
+  "updated": "2026-11-16",
+  "run_id": "hourly-slot-2026-11-16T04:00:00-06:00 (scheduler UUID unavailable)"
 }
